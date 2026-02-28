@@ -1,7 +1,7 @@
 >### **📌 Lista de Exercícios – Estrutura Básica do HTML**  
 
 >**Instruções:**  
->1. Crie um arquivo HTML para cada exercício (ex.: exercicio1.html) e salve todos dentro da pasta lista-2.  
+>1. Crie um arquivo HTML para cada exercício (ex.: exercicio1.html) e salve todos dentro da pasta pw-lista-2.  
 >2. Utilize a estrutura básica do HTML.  
 >3. Complete os exercícios abaixo dentro dos respectivos arquivo.  
 
