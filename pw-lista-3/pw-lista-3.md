@@ -1,3 +1,9 @@
+>**Instruções:**  
+>1. Crie um arquivo HTML para cada exercício (ex.: exercicio1.html) e salve todos dentro da pasta pw-lista-3.  
+>2. Utilize a estrutura básica do HTML.  
+>3. Complete os exercícios abaixo dentro dos respectivos arquivo.  
+
+---
 ## 📌 Exercício 1 – Biografia Simples  
 
 ### João Silva - Quem sou eu?  
