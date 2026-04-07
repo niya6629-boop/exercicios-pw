@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1a1a2e;
+    color: #eaeaea;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* ===== cabecario ===== */
+header {
+    background-color: #16213e;
+    text-align: center;
+    padding: 40px 20px;
+    border-bottom: 3px solid #000000;     
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 8px;
+}
+
+header p {
+    color: #a0a0c0;
+    font-size: 1rem;
+}
+
+
+main {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+section {
+    padding: 30px 0;
+    border-bottom: 1px solid #0f3460;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #e94560;
+}
+
+/* ===== SOBRE ===== */
+.content {
+    display:inline-flexbox;
+    width: 100%;
+}
+
+.description-content{
+       text-align: left
+}
+
+.image-content {
+    display: inline;
+    width: 90%;
+    vertical-align: top;
+}
+
+.image-content img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #e94560;
+}
+
+.description-content {
+    display: inline-block;
+    width: 75%;
+    vertical-align: top;
+    padding-left: 20px;
+}
+
+.description-content h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #e94560;
+}
+
+.description-content p {
+    color: #a0a0c0;
+    line-height: 1.6;
+}
+
+/* ===== projeto cyber seguranca, projeto jarvis ===== */
+.project {
+    display: inline-block;
+    width: 45%;
+    background-color: #16213e;
+    border: 1px solid #0f3460;
+    padding: 20px;
+    margin-right: 3%;
+    margin-bottom: 20px;
+    vertical-align: top;
+}
+
+.project h4 {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+    color: #e94560;
+}
+
+.project p {
+    color: #a0a0c0;
+    font-size: 0.9rem;
+}
+
+
+form {
+    display: block;
+    width: 50%;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #a0a0c0;
+}
+
+input[type="text"]{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: #16213e;
+    border: 1px solid #0f3460;
+    color: #eaeaea;
+}
+
+input[type="submit"] {
+    display: block;
+    padding: 10px 30px;
+    background-color: #e94560;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #c73652;
+}
+
+
+footer{
+    background-color: #16213e;
+    text-align: center;
+    padding: 20px;
+    color: #a0a0c0;
+    border-top: 3px solid #0f3460;
+ }
+
+
+
+
+       
