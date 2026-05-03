@@ -65,7 +65,7 @@ Criar uma **galeria de imagens** usando **HTML e CSS puro**, aplicando:
 4. **Interatividade visual**:
 
    * Adicione **hover effects**: aumentar a imagem, mudar a borda ou adicionar sombra.
-   * Faça com que o texto da legenda apareça sobre a imagem ao passar o mouse, usando **positioning** (`relative`/`absolute`).
+  
 
 <!-- ## 💡 Dicas de Código
 
